@@ -9,3 +9,7 @@ tree_plotter.py用于可视化训练结果
 训练结果：
 
 ![image](https://github.com/Jojo11111/Decision_Tree/blob/master/tree.png)
+
+测试结果：
+
+![image](https://github.com/Jojo11111/Decision_Tree/blob/master/test.png)
